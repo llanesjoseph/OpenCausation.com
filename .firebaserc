@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "opencausation"
+  },
+  "targets": {
+    "opencausation": {
+      "hosting": {
+        "opencausation": [
+          "opencausation"
+        ]
+      }
+    }
+  }
+}
